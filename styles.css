@@ -1,0 +1,60 @@
+body {
+    background-color: cornsilk;
+    color: midnightblue;
+    display: flex;
+    font-family: AppleGothic, Ariel, Helvetica, sans-serif;
+    font-size: 32px;
+    justify-content: center;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.wrapper>h1 {
+    font-size: 6rem;
+    margin: 5rem 0 0 0;
+    transition: all 0.4s;
+    position: relative;
+}
+
+.recursions {
+    width: 100%;
+}
+
+.fibNoRecursionButton,
+.fibRecursionButton,
+.clearButton {
+    background-color: ivory;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px lightblue;
+    margin: 2% 5%;
+    padding: 0.25rem;
+    height: auto;
+    width: 60%;
+}
+
+.fibRecursionButton {
+    width: 53%;
+}
+
+.clearButton {
+    width: 20%;
+}
+
+.buttonText {
+    color: darkblue;
+    font-size: 2.25em;
+    padding: 2%;
+}
+
+.fibNoRecursionResult>textarea,
+.fibRecursionResult>textarea {
+    background-color: ivory;
+    color: midnightblue;
+    font-family: AppleGothic, Ariel, Helvetica, sans-serif;
+    font-size: 1.75rem;
+    margin: 0 auto;
+    padding: 1em;
+    height: 6.5rem;
+    width: 50%;
+    transition: all 0.35s ease-in-out;
+}

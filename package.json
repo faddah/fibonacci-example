@@ -1,0 +1,11 @@
+{
+    "name": "TypeScriptTests",
+    "version": "0.0.1",
+    "dependencies": {
+        "typescript": "^4.8.3"
+    },
+    "devDependencies": {
+        "@types/lodash": "^4.14.185",
+        "parcel": "^2.7.0"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "rootDir": "./src",
+        "outDir": "./dist",
+        "target": "ES2017",
+        "watch": true,
+        "lib": ["DOM", "ES2017"],
+        "baseUrl": "../typescript-videos"
+    }
+}

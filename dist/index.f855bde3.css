@@ -1,0 +1,58 @@
+body {
+  color: #191970;
+  text-align: center;
+  background-color: #fff8dc;
+  justify-content: center;
+  margin-top: 5%;
+  font-family: AppleGothic, Ariel, Helvetica, sans-serif;
+  font-size: 32px;
+  display: flex;
+}
+
+.wrapper > h1 {
+  margin: 5rem 0 0;
+  font-size: 6rem;
+  transition: all .4s;
+  position: relative;
+}
+
+.recursions {
+  width: 100%;
+}
+
+.fibNoRecursionButton, .fibRecursionButton, .clearButton {
+  height: auto;
+  width: 60%;
+  background-color: ivory;
+  border-radius: 10px;
+  margin: 2% 5%;
+  padding: .25rem;
+  box-shadow: 10px 5px 5px #add8e6;
+}
+
+.fibRecursionButton {
+  width: 53%;
+}
+
+.clearButton {
+  width: 20%;
+}
+
+.buttonText {
+  color: #00008b;
+  padding: 2%;
+  font-size: 2.25em;
+}
+
+.fibNoRecursionResult > textarea, .fibRecursionResult > textarea {
+  color: #191970;
+  height: 6.5rem;
+  width: 50%;
+  background-color: ivory;
+  margin: 0 auto;
+  padding: 1em;
+  font-size: 1.5rem;
+  transition: all .35s ease-in-out;
+}
+
+/*# sourceMappingURL=index.f855bde3.css.map */
