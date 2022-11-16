@@ -5,4 +5,4 @@
 * To run this example in a browser, from the Terminal/Command line, run: `$ npm start`. Then, for the web address that will be shown in the Terminal, option-click on it to open the page in your default browser.
 * To end the session, `Ctrl-C` in the Terminal where it's running.
 
-##### To see this Example running on my CodePen: 🖱️ 🐁 👉 [click here](https://codepen.io/faddah/pen/JjZXMXR)
+##### To see this Example running on my CodePen: 🖱️ 🐁 👉 <a href="https://codepen.io/faddah/pen/JjZXMXR" target="_blank">click here</a>
